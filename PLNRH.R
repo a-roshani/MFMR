@@ -1,4 +1,4 @@
-PCFM0.stan <- "
+PLNRH.stan <- "
 data { 
 int<lower=0> A;
 int<lower=0> TT;
